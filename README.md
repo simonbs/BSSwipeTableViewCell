@@ -30,9 +30,7 @@ Coming soon.
 
 ## Known Issues
 
-Nothing!
-
-Let me know if you find anything else.
+None but let me know if you find anything.
 
 ## Demo Project
 
