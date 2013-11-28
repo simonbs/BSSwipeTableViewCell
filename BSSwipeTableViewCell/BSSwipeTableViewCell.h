@@ -37,6 +37,8 @@ typedef enum {
 @property (nonatomic, assign, getter = canRevealLeft) BOOL revealLeft;
 @property (nonatomic, assign, getter = canRevealRight) BOOL revealRight;
 
+@property (nonatomic, strong, readonly) UIView *sideView;
+
 @end
 
 @protocol BSSwipeTableViewCellDelegate <NSObject>
